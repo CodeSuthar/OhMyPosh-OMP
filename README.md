@@ -59,8 +59,7 @@ Whether you’re looking for a clean, minimal prompt or a vibrant, expressive on
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/CodeSuthar/OhMyPosh-OMP/main/images/codesuthar.png"
-    width="600"
+    src="https://raw.githubusercontent.com/CodeSuthar/OhMyPosh-OMP/main/images/codesuthar.png"0
     alt="Preview of codesuthar.omp.json theme"
   />
 </div>
