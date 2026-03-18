@@ -16,8 +16,6 @@ This repository is a mix of:
 
 Whether you’re looking for a clean, minimal prompt or a vibrant, expressive one, this collection has a variety of styles to explore.
 
----
-
 ## ⚙️ Prerequisites
 
 <details>
@@ -54,8 +52,6 @@ Whether you’re looking for a clean, minimal prompt or a vibrant, expressive on
 </details>
 
 > 💡 If you’re using a **minimal theme**, Nerd Fonts can be skipped.
-
----
 
 ## 📸 Theme Gallery
 
